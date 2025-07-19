@@ -13,8 +13,6 @@ A machine learning-powered web app that predicts the estimated price of a used c
 🔗 **Try the Web App**: https://carpricepredictionbyzaidnaeem.streamlit.app/
 ---
 
-## 📸 Demo Screenshot
-
 ![App Screenshot](gitimg.png) <!-- Optional: Add a screenshot of your app here -->
 
 ---
