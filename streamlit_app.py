@@ -40,7 +40,7 @@ for i, col in enumerate(feature_columns):
             le = label_encoders[col]
 
             # Special handling for original_price
-            if col == 'original price':
+            if col == 'original price of that specific model':
                 price_value = st.number_input(f"{display_name}", step=10000.0, format="%.0f")
 
                 # Categorize price
